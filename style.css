@@ -3,10 +3,10 @@
     height: 80%;
 }
 a.spoiler.collapsed:after{
-    content: "Open v"
+    content: "Open +"
 }
 a.spoiler:after{
-    content: "Close ^"
+    content: "Close -"
 }
 div .col-lg-6{
     height: 400px;
